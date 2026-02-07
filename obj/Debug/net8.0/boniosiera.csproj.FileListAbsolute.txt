@@ -1,0 +1,14 @@
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\bin\Debug\net8.0\boniosiera.exe
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\bin\Debug\net8.0\boniosiera.deps.json
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\bin\Debug\net8.0\boniosiera.runtimeconfig.json
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\bin\Debug\net8.0\boniosiera.dll
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\bin\Debug\net8.0\boniosiera.pdb
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.AssemblyInfoInputs.cache
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.AssemblyInfo.cs
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.csproj.CoreCompileInputs.cache
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.dll
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\refint\boniosiera.dll
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.pdb
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\boniosiera.genruntimeconfig.cache
+C:\Users\bonio.387939\source\repos\boniosiera\boniosiera\obj\Debug\net8.0\ref\boniosiera.dll
